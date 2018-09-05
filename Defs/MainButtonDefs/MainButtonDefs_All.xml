@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <MainButtonDef>
+    <defName>Console</defName>
+    <label>console</label>
+    <description>Evaluate C# expressions at runtime.</description>
+    <tabWindowClass>SpdsDebuggingLibrary.MainTabWindow_Console</tabWindowClass>
+    <order>499</order>
+    <defaultHotKey>F12</defaultHotKey>
+    <validWithoutMap>true</validWithoutMap>
+  </MainButtonDef>
+</Defs>
